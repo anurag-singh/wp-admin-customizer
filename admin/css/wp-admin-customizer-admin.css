@@ -1,0 +1,17 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .navbar-brand {
+  padding: 5px;
+  height: 100%;
+}
+
+.navbar-right {
+	margin-top: 10px;
+}
+
+.login label {
+	font-weight: normal;
+}
